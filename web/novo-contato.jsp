@@ -6,7 +6,7 @@
         <title>Novo contato</title>
     </head>
     <body>
-        <%@include file="jspf/menu.jspf" %>
+        <%@include file="jspf/Menu.jspf" %>
         <h1>Novo Contato</h1>
         <div style="color: red;">${mensagem}</div>
         <form method="post">
